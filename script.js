@@ -10,6 +10,7 @@
 // @match        https://www.wanikani.com/review/session*
 // @grant        none
 // ==/UserScript==
+// readme and credits at https://github.com/ccookf/wk-review-srs-level
 
 (function() {
     'use strict';
