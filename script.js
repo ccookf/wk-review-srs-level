@@ -53,6 +53,8 @@ function getLevelName(srs) {
             return "Master";
         case 8:
             return "Enlightened";
+        case 9:
+            return "Burned";
         default:
             return "ERR" + srs + "!";
     }
